@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b718fdc3-4c91-4585-b4e0-14b498036c4e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +54,38 @@
       <option name="presentableId" value="Default" />
       <updated>1582489230991</updated>
       <workItem from="1582489232131" duration="176000" />
-      <workItem from="1582489613472" duration="141000" />
+      <workItem from="1582489613472" duration="341000" />
+      <workItem from="1582937347513" duration="246000" />
     </task>
+    <task id="LOCAL-00001" summary="modify html content">
+      <created>1582489783375</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582489783375</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modify html content" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify html content" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1582489782774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582489782774" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1582489794450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582489794450" />
+    <state x="1066" y="179" width="684" height="714" key="dock-window-1" timestamp="1582937423672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1066" y="179" width="684" height="714" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1582937423672" />
   </component>
 </project>
